@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'feologit': Fixed-effects (conditional) ordered logistic regression Use feologit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _coef_table_header_buc.ado
+f clogit_buc.ado
+f feologit.ado
+f feologit.sthlp
+f feologit_p.ado
+f feologit_postestimation.sthlp
+f logitmarg.ado
