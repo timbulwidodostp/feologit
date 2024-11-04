@@ -1,6 +1,8 @@
 # feologit
 Fixed-effects (conditional) ordered logistic regression Use feologit With STATA 18
 
+https://www.youtube.com/watch?v=pi5Lei9YWzE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
